@@ -11,3 +11,5 @@ password = 1234@Pwd
 3- python manage.py migrate
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+4- pipenv install djangorestframework
